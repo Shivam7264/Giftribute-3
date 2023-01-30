@@ -1,0 +1,24 @@
+.vl {
+    border-left: 1px solid lightgrey;
+    height: 100;
+  }
+.Border{
+    border: 1px solid lightgray;
+}
+img {
+    width:6em;
+    height:6em;
+}
+.mobile_view{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    .desktop_view{
+        display: none;
+    }
+    .mobile_view{
+        display: block;
+    }
+}
+
+

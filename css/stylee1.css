@@ -1,0 +1,50 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin: 0;
+}
+.header{
+    margin: 0;
+    
+    display: flex;
+   justify-content: space-between;
+    background-color:#D19C97;
+    
+    align-items: center;
+    height: 180px;
+    padding-left: 70px;
+    color:whitesmoke;
+    padding-right: 3rem;
+}
+.signout{
+   
+    width: 90px;
+    height: 30px;
+   
+ border:none ;
+ font-family: 'Roboto', sans-serif;
+}
+#sign-out{
+   
+    font-weight: 40;
+    color: whitesmoke;
+border: 1px solid whitesmoke;
+background-color:#D19C97;
+}
+#sign-out:hover{
+    background-color: #dcd0cf;
+    color: black;
+}
+h6{
+    margin-top: 0;
+}
+h1{
+    margin-bottom: 0;
+}
+.loc{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#f2d3d0;
+}
+
+ 
+
